@@ -20,7 +20,7 @@
 
 | Sous-réseau 1 | Pôle informatique |
 | :---: | :---: |
-|Adresse de réseau | 172.16.1.0/24  |
+|Adresse de réseau | 172.16.1.0/26  |
 |Début de plage IP disponible | 172.16.1.1 |  
 |Fin de plage IP disponible | 172.16.1.62 | 
 |Adresse de broadcast | 172.16.1.63 | 
@@ -28,21 +28,21 @@
 
 | Sous-réseau 2 | Pôle Administratif  |
 | :---: | :---: |
-|Adresse de réseau | 172.16.1.64/24  |
+|Adresse de réseau | 172.16.1.64/27  |
 |Début de plage IP disponible | 172.16.1.65 | 
 |Fin de plage IP disponible | 172.16.1.94 | 
 |Adresse de broadcast | 172.16.1.95 |
 
 | Sous-réseau 3 | Pôle Technicien  |
 | :---: | :---: |
-|Adresse de réseau | 172.16.1.96/24  |
+|Adresse de réseau | 172.16.1.96/27  |
 |Début de plage IP disponible | 172.16.1.97 | 
 |Fin de plage IP disponible | 172.16.1.126  |
 |Adresse de broadcast | 172.16.1.127  |
 
 | Sous-réseau 4 | Pôle Développement |  
 | :---: | :---: |
-|Adresse de réseau | 172.16.1.128/24  |
+|Adresse de réseau | 172.16.1.128/28  |
 |Début de plage IP disponible | 172.16.1.129 |  
 |Fin de plage IP disponible | 172.16.1.142  |
 |Adresse de broadcast | 172.16.1.143  |
